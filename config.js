@@ -48,7 +48,7 @@ global.socialm = "Instagram: https://www.instagram.com/brynzx06/" //ur github or
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "Brymzx Bot" //ur bot name
+global.botname = "Brynzx Bot" //ur bot name
 global.websitex = "tiktok.com/@brynzx06" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Brynzx Bot\n\n\n\n\n\n\n🦄🦄🦄 "
@@ -57,7 +57,7 @@ global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['6282211991425'] //ur owner tag
 global.ownernummenu = ['6282211991425'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
+global.watermark = "Brynzx Bot Inc." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/LEw9RyZJcPTKkpfGV9dU8W"
 global.linkz2 = "https://chat.whatsapp.com/LEw9RyZJcPTKkpfGV9dU8W"
@@ -89,7 +89,7 @@ global.autorep = []
 global.ntilink = []
 
 //omther
-global.lolhuman = "KaysaS"
+global.lolhuman = "eed29cc51b79585a00f454d6"
 global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
